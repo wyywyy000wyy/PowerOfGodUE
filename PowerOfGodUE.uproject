@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F1B026A4-4188-6EB1-AE7F-D0A53706E2EC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PowerOfGodUE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

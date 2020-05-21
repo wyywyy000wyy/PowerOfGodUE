@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PowerOfGodUE.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8F1D9E9F-34B3-4A75-8757-0563A0071FBF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PowerOfGodUE.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PowerOfGodUEEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0C486DFB-1CDF-4050-A4E7-467DFC34EE96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{DC63B1C4-4BBC-44C1-9DC7-1E4E4F956591}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{A9D737D7-BF64-4362-A858-B7D44F652676}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{E7DB13F1-B9F1-4A97-A363-2D9F3E75CA8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{3DF036F6-C3E3-4CAA-991E-4110E5E3732C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{954F7BB3-0232-461F-9848-8009B18E97B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{60289AE9-7C48-4E45-8960-CFB75DF9FF6C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{55102F62-AEA4-4CD9-8692-080E9638380E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{1634EA74-8C55-4D92-A50E-2A05BC48B5F3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\PowerOfGodUE">
+      <UniqueIdentifier>{8A616723-A00F-43DB-B9C0-CB6DF3703929}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PowerOfGodUE\PowerOfGodUE.Build.cs">
+      <Filter>Source\PowerOfGodUE</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PowerOfGodUE\PowerOfGodUE.cpp">
+      <Filter>Source\PowerOfGodUE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PowerOfGodUE\PowerOfGodUE.h">
+      <Filter>Source\PowerOfGodUE</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PowerOfGodUE\PowerOfGodUEGameModeBase.cpp">
+      <Filter>Source\PowerOfGodUE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PowerOfGodUE\PowerOfGodUEGameModeBase.h">
+      <Filter>Source\PowerOfGodUE</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

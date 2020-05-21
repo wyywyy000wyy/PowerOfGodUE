@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\UnrealEngine\Engine\Source\Programs\UnrealDisasterRecoveryService\UnrealDisasterRecoveryService.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{5DCB6C08-B531-4B54-AA6F-ACC4123ADF59}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\UnrealEngine\Engine\Programs\UnrealDisasterRecoveryService\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\..\..\UnrealEngine\Engine\Source\Programs\UnrealDisasterRecoveryService\UnrealDisasterRecoveryService.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{FF3B1368-5217-42D1-8A1B-1DD23DEF8238}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\UnrealEngine\Engine\Source\Programs\UnrealDisasterRecoveryService\Private\UnrealDisasterRecoveryService.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
